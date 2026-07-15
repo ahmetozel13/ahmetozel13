@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ahmetozel13&style=flat-square&color=0891B2&label=Profile+Views" alt="Profile Views" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=1500&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmet+%C3%96zel;Yaz%C4%B1l%C4%B1m+Geli%C5%9Ftirici+%40+SakaSoft;React+%E2%80%A2+Nest.js+%E2%80%A2+React+Native" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=1500&color=0891B2&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Ahmet+%C3%96zel;Software+Developer+%40+SakaSoft;React+%E2%80%A2+Nest.js+%E2%80%A2+React+Native" alt="Typing SVG" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ### About Me
 
-- 🏗️ **[SakaSoft](http://sakasoft.com.tr)** bünyesinde Yazılım Geliştirici
+- 🏗️ **[SakaSoft](http://sakasoft.com.tr)** — Software Developer
 - 💻 Fullstack Developer — React, Nest.js, React Native
 - 📍 Based in **Istanbul, Turkey**
 - ✉️ [ahmet@sakasoft.com.tr](mailto:ahmet@sakasoft.com.tr)
